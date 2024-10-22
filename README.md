@@ -9,7 +9,9 @@ A loan prediction model is constructed and assessed in this Jupyter notebook. Da
 The dataset included in this investigation includes a number of characteristics pertaining to loan applicants, such as:
 
 Loan_ID: The loan's unique identification number.
+
 Gender: The applicant's gender.
+
 Married: The applicant's marital status.
 The quantity of dependents.
 Education: The applicant's degree of education (graduate or non-graduate).

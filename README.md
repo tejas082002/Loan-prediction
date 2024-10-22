@@ -13,15 +13,23 @@ Loan_ID: The loan's unique identification number.
 Gender: The applicant's gender.
 
 Married: The applicant's marital status.
-The quantity of dependents.
+
 Education: The applicant's degree of education (graduate or non-graduate).
+
 Self_Employed: Status of self-employment.
+
 ApplicantIncome: The applicant's income.
+
 CoapplicantIncome: The co-applicant's income.
+
 LoanAmount: The total loan amount.
+
 Loan_Amount_Term: The loan's duration expressed in months.
+
 Credit_History: The applicant's credit history.
+
 Property_Area: The location of the property (Urban, Rural, or Semiurban).
+
 Target variable Loan_Status: Indicates if a loan has been granted (1 for approved, 0 for rejected).
 
 **Dependencies**
